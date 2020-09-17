@@ -1,0 +1,30 @@
+Country,Survey,Total,Education,,,,Education (2 groups),
+,,,No education,Primary,Secondary,Higher,No education or primary,Secondary or higher
+Benin,2011-12 DHS,7.3,10.8,2.7,1.8,0,9,1.6
+Burkina Faso,2010 DHS,75.8,80.3,69.5,56,51.5,78.6,55.7
+Central African Republic,1994-95 DHS,43.4,47.8,44.9,23.2,12.9,46.7,22.8
+Chad,2014-15 DHS,38.4,44.4,31.7,23.9,21.8,41,23.8
+Cote d'Ivoire,2011-12 DHS,38.2,50.8,27.2,21.2,11.4,43.2,19.9
+Egypt,2014 DHS,92.3,97.2,96.4,92.8,78.8,96.9,89.8
+Eritrea,2002 DHS,88.7,92.9,86,83,72.4,90.3,82.2
+Ethiopia,2016 DHS,65.2,72.9,62,49.9,50.6,68.4,50.1
+Gambia,2013 DHS,74.9,74.5,81.4,74.7,64,76.1,73.2
+Guinea,2018 DHS,94.5,94.9,93.8,93.6,93,94.7,93.5
+Kenya,2014 DHS,21,58.2,23.3,13.4,8.6,27.6,12.2
+Mali,2018 DHS,88.6,88.2,90.9,89.1,83.3,88.6,88.6
+Mauritania,2000-01 DHS,71.3,75.7,69.1,58.8,54.1,73.5,58.4
+Niger,2012 DHS,2,1.9,2.5,1.3,3.6,2,1.5
+Nigeria,2018 DHS,19.5,17.2,25.6,19.4,19.5,19.5,19.4
+Senegal,2017 DHS,24,26.2,25,20.6,16.2,25.8,20
+Sierra Leone,2013 DHS,89.6,96.9,87.3,78.3,66.5,94.9,77.1
+Sudan,1989-90 DHS,89.2,82.9,98.2,98.2,93,87.6,97.8
+Tanzania,2015-16 DHS,10,17,10.8,3.2,7.6,12,3.5
+Togo,2013-14 DHS,4.7,10,2.7,1.8,1.1,6.3,1.7
+Uganda,2011 DHS,1.4,1.5,1.4,1.5,1.3,1.4,1.5
+,,,,,,,,
+Notes:,,,,,,,,
+The column for total data indicate countrywide FGM index.,,,,,,,,
+Education column shows breakdown across different education levels while education two groups break them down to two distinct groups.,,,,,,,,
+Sources:,,,,,,,,
+Demographic and Health Survey ,,,,,,,,
+Indicator definition - Females who have undergone FGM/C in households where the mother has attained different levels of education,,,,,,,,
