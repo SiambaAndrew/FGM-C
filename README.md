@@ -9,7 +9,4 @@ Abbreviations
 UNICEF -United Nations International Children's Emergency Fund 		
 MICS - Multiple Indicator Cluster Surveys		
 FGM- Female Genital Mutilation 		
-DHS- Demographic and Health Survey		
-
-
-https://github.com/SiambaAndrew/FGM-C
+DHS- Demographic and Health Survey
